@@ -1,1 +1,1 @@
-"Readme file"
+This directory implements webpage design.
